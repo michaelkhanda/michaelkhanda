@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/michael-k-0a5874127/](https://www.linkedin.com/in/michael-k-0a5874127/)
 
-- ⚡ Fun fact **love capturing moments and turning them into lasting memories.**
+- ⚡ Fun fact: **I love capturing moments and turning them into lasting memories.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
