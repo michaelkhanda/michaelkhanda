@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/justhandah" target="blank"><img src="https://img.shields.io/twitter/follow/justhandah?logo=twitter&style=for-the-badge" alt="justhandah" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis in Python, php, Node.js and React**
+- 🌱 I’m currently learning **Data Analysis in Python, php, Node.js and React.**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/michaelkhanda)
 
