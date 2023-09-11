@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/michaelkhanda)
 
-- 💬 Ask me about **Python and Web-Development.**
+- 💬 Ask me about **Python, Cybersecurity and Web-Development.**
 
 - 📫 How to reach me: **michaelkhanda006@gmail.com**
 
