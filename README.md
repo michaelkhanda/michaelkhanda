@@ -77,8 +77,8 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=michaelkhanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michaelkhanda" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkhanda&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=michaelkhanda&show_icons=true&locale=en&theme=tokyonight" alt="michaelkhanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelkhanda&theme=tokyonight" alt="michaelkhanda" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelkhanda&theme=tokyonight" alt="michaelkhanda" /></p>-->
