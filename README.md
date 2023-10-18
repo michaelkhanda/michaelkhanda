@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Khanda</h1>
-<h3 align="center">I am currently a computer science student at United States International University - Africa, looking to engage in diverse projects that will help me advance in my career.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkhanda&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkhanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/justhandah" target="blank"><img src="https://img.shields.io/twitter/follow/justhandah?logo=twitter&style=for-the-badge" alt="justhandah" /></a> </p>
+
 
 - 🌱 I am currently learning **Data Analysis in Python, Flask, Node.js and React.**
 
