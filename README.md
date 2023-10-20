@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I am currently learning **Django, Flask, and Bootsrap.**
+- 🌱 I am currently learning **Django, Flask, and Bootstrap.**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/michaelkhanda)
 
