@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I am currently learning **Data Analysis in Python, Flask, Node.js and React.**
+- 🌱 I am currently learning **Django, Flask, and Bootsrap.**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/michaelkhanda)
 
