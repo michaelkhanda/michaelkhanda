@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Khanda</h1>
+<h1 align="center">Hello 👋, I'm Michael Khanda</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkhanda&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkhanda" /> </p>
