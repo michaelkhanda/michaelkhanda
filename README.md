@@ -5,7 +5,7 @@
     <b>Hello there, I'm <a href="https://github.com/michaelkhanda">@michaelkhanda</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Cloud and Network Security Analyst" | "📈 Data Analyst" )</samp>
+    <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Cloud & Network Security Analyst" | "📈 Data Analyst" )</samp>
   </p>
 
 
