@@ -19,7 +19,7 @@
 -----
 <p align="center">
   <a href="https://github.com/michaelkhanda">
-    <img src="https://img.shields.io/badge/github-@michaelkhanda-211F1F?logo=github&logoColor=white&style=flat-square"  alt="michaelkhanda"/>
+    <img src="https://img.shields.io/badge/github-@michaelkhanda-211F1F?logo=github&logoColor=white&style=flat-square"  alt="michaelkhanda "/>
   </a>
   <a href="https://www.linkedin.com/in/michaelkhanda">
     <img src="https://img.shields.io/badge/linkedin-Michael_Khanda-0072B1?logo=linkedin&style=flat-square"  alt="michaelkhanda"/>
