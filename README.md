@@ -2,7 +2,7 @@
 
 <p>
   <h1 align="center">
-    <b>Hello there, I'm <a href="https://github.com/michaelkhanda">@michaelkhanda</a> 👋</b>
+    <b>Hello there, I am <a href="https://github.com/michaelkhanda">@michaelkhanda</a> 👋</b>
   </h1>
   <p align="center">
     <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Cloud & Network Security Analyst" | "📈 Data Analyst" )</samp>
